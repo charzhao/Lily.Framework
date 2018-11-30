@@ -1,0 +1,12 @@
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\ConsoleNet\Samples.Lily.Framework.CommonContract\bin\Debug\netstandard2.0\Samples.Lily.Framework.CommonContract.deps.json
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\ConsoleNet\Samples.Lily.Framework.CommonContract\bin\Debug\netstandard2.0\Samples.Lily.Framework.CommonContract.dll
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\ConsoleNet\Samples.Lily.Framework.CommonContract\bin\Debug\netstandard2.0\Lily.Framework.Plugin.dll
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\ConsoleNet\Samples.Lily.Framework.CommonContract\bin\Debug\netstandard2.0\Lily.Framework.Plugin.pdb
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\ConsoleNet\Samples.Lily.Framework.CommonContract\obj\Debug\netstandard2.0\Samples.Lily.Framework.CommonContract.csproj.CoreCompileInputs.cache
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\ConsoleNet\Samples.Lily.Framework.CommonContract\obj\Debug\netstandard2.0\Samples.Lily.Framework.CommonContract.AssemblyInfoInputs.cache
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\ConsoleNet\Samples.Lily.Framework.CommonContract\obj\Debug\netstandard2.0\Samples.Lily.Framework.CommonContract.AssemblyInfo.cs
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\ConsoleNet\Samples.Lily.Framework.CommonContract\obj\Debug\netstandard2.0\Samples.Lily.Framework.CommonContract.csproj.CopyComplete
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\ConsoleNet\Samples.Lily.Framework.CommonContract\bin\Debug\netstandard2.0\Samples.Lily.Framework.CommonContract.pdb
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\ConsoleNet\Samples.Lily.Framework.CommonContract\obj\Debug\netstandard2.0\Samples.Lily.Framework.CommonContract.csprojAssemblyReference.cache
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\ConsoleNet\Samples.Lily.Framework.CommonContract\obj\Debug\netstandard2.0\Samples.Lily.Framework.CommonContract.dll
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\ConsoleNet\Samples.Lily.Framework.CommonContract\obj\Debug\netstandard2.0\Samples.Lily.Framework.CommonContract.pdb

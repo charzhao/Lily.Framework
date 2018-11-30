@@ -1,0 +1,12 @@
+C:\0\1MyProgram\0DesertFish\Lily.Framework\src\Lily.Framework.Web\bin\Debug\netcoreapp2.1\Lily.Framework.Web.deps.json
+C:\0\1MyProgram\0DesertFish\Lily.Framework\src\Lily.Framework.Web\bin\Debug\netcoreapp2.1\Lily.Framework.Web.dll
+C:\0\1MyProgram\0DesertFish\Lily.Framework\src\Lily.Framework.Web\bin\Debug\netcoreapp2.1\Lily.Framework.Web.pdb
+C:\0\1MyProgram\0DesertFish\Lily.Framework\src\Lily.Framework.Web\bin\Debug\netcoreapp2.1\Lily.Framework.dll
+C:\0\1MyProgram\0DesertFish\Lily.Framework\src\Lily.Framework.Web\bin\Debug\netcoreapp2.1\Lily.Framework.pdb
+C:\0\1MyProgram\0DesertFish\Lily.Framework\src\Lily.Framework.Web\obj\Debug\netcoreapp2.1\Lily.Framework.Web.csprojAssemblyReference.cache
+C:\0\1MyProgram\0DesertFish\Lily.Framework\src\Lily.Framework.Web\obj\Debug\netcoreapp2.1\Lily.Framework.Web.csproj.CoreCompileInputs.cache
+C:\0\1MyProgram\0DesertFish\Lily.Framework\src\Lily.Framework.Web\obj\Debug\netcoreapp2.1\Lily.Framework.Web.AssemblyInfoInputs.cache
+C:\0\1MyProgram\0DesertFish\Lily.Framework\src\Lily.Framework.Web\obj\Debug\netcoreapp2.1\Lily.Framework.Web.AssemblyInfo.cs
+C:\0\1MyProgram\0DesertFish\Lily.Framework\src\Lily.Framework.Web\obj\Debug\netcoreapp2.1\Lily.Framework.Web.csproj.CopyComplete
+C:\0\1MyProgram\0DesertFish\Lily.Framework\src\Lily.Framework.Web\obj\Debug\netcoreapp2.1\Lily.Framework.Web.dll
+C:\0\1MyProgram\0DesertFish\Lily.Framework\src\Lily.Framework.Web\obj\Debug\netcoreapp2.1\Lily.Framework.Web.pdb

@@ -1,0 +1,9 @@
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\Console\Samples.Lily.Framework.ConsoleHost\Plugins\ClassLibrary\Samples.Lily.Framework.Plugin.ClassLibrary.deps.json
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\Console\Samples.Lily.Framework.ConsoleHost\Plugins\ClassLibrary\Samples.Lily.Framework.Plugin.ClassLibrary.dll
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\Console\Samples.Lily.Framework.ConsoleHost\Plugins\ClassLibrary\Samples.Lily.Framework.Plugin.ClassLibrary.pdb
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\Console\Samples.Lily.Framework.Plugin.ClassLibrary\obj\Debug\Samples.Lily.Framework.Plugin.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\Console\Samples.Lily.Framework.Plugin.ClassLibrary\obj\Debug\Samples.Lily.Framework.Plugin.ClassLibrary.AssemblyInfoInputs.cache
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\Console\Samples.Lily.Framework.Plugin.ClassLibrary\obj\Debug\Samples.Lily.Framework.Plugin.ClassLibrary.AssemblyInfo.cs
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\Console\Samples.Lily.Framework.Plugin.ClassLibrary\obj\Debug\Samples.Lily.Framework.Plugin.ClassLibrary.dll
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\Console\Samples.Lily.Framework.Plugin.ClassLibrary\obj\Debug\Samples.Lily.Framework.Plugin.ClassLibrary.pdb
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\Console\Samples.Lily.Framework.Plugin.ClassLibrary\obj\Debug\Samples.Lily.Framework.Plugin.ClassLibrary.csprojAssemblyReference.cache

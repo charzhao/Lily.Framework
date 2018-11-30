@@ -1,0 +1,11 @@
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\Console\Samples.Lily.Framework.ConsoleHost\bin\Debug\netcoreapp2.0\Samples.Lily.Framework.ConsoleHost.deps.json
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\Console\Samples.Lily.Framework.ConsoleHost\bin\Debug\netcoreapp2.0\Samples.Lily.Framework.ConsoleHost.runtimeconfig.json
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\Console\Samples.Lily.Framework.ConsoleHost\bin\Debug\netcoreapp2.0\Samples.Lily.Framework.ConsoleHost.runtimeconfig.dev.json
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\Console\Samples.Lily.Framework.ConsoleHost\bin\Debug\netcoreapp2.0\Samples.Lily.Framework.ConsoleHost.dll
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\Console\Samples.Lily.Framework.ConsoleHost\bin\Debug\netcoreapp2.0\Samples.Lily.Framework.ConsoleHost.pdb
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\Console\Samples.Lily.Framework.ConsoleHost\obj\Debug\netcoreapp2.0\Samples.Lily.Framework.ConsoleHost.csprojResolveAssemblyReference.cache
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\Console\Samples.Lily.Framework.ConsoleHost\obj\Debug\netcoreapp2.0\Samples.Lily.Framework.ConsoleHost.csproj.CoreCompileInputs.cache
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\Console\Samples.Lily.Framework.ConsoleHost\obj\Debug\netcoreapp2.0\Samples.Lily.Framework.ConsoleHost.AssemblyInfoInputs.cache
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\Console\Samples.Lily.Framework.ConsoleHost\obj\Debug\netcoreapp2.0\Samples.Lily.Framework.ConsoleHost.AssemblyInfo.cs
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\Console\Samples.Lily.Framework.ConsoleHost\obj\Debug\netcoreapp2.0\Samples.Lily.Framework.ConsoleHost.dll
+C:\0\1MyProgram\0DesertFish\Lily.Framework\samples\Console\Samples.Lily.Framework.ConsoleHost\obj\Debug\netcoreapp2.0\Samples.Lily.Framework.ConsoleHost.pdb
